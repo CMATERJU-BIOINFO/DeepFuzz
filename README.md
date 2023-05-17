@@ -8,4 +8,4 @@ The work is focused on segmentation of overlapping nuclei from microscopic image
 
 ## **How to use the code:**
 To run the deep module, you need:1) tensorflow 2.0.0 2) Keras 2.3.1. 
-To run the fuzzy waterflow module you need to install QT 6.2.1. The code is written in C++.
+To run the fuzzy waterflow module you need to install [QT](https://www.qt.io/download). The code is written in C++.
