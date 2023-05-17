@@ -8,7 +8,7 @@ The work is focused on segmentation of overlapping nuclei from microscopic image
 
 ## **How to use the code:**
 1) For the deep module, we have adopted the code at: [https://github.com/nauyan/Segmentation](https://github.com/nauyan/Segmentation) with hyper parameters tuning. The installation gudie can also be found at the given site. The installation gudie is given at the site and the required libraries can be found [here](https://github.com/nauyan/Segmentation/blob/master/requirements.txt).\
-2) To run the fuzzy waterflow module you need to install [QT](https://www.qt.io/download). The code is written in C++.
+2) To run the fuzzy waterflow module you need to install [QT](https://www.qt.io/download) software. The fuzzy waterflow code files are uploaded here as flow.rar. The code is written in C++.
 
 ## **Dataset:**
 We used four public datasets: [NuCLS](https://sites.google.com/view/nucls/single-rater?authuser=0), [MoNuSeg](https://monuseg.grand-challenge.org/Data/), [TNBC](https://zenodo.org/record/1175282#.YMisCTZKgow), and [S-BSST265](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BSST265).
