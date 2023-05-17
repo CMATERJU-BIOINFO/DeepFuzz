@@ -7,5 +7,5 @@ fuzzy water flows for fine-grained nuclei segmentation in digital pathology." in
 The work is focused on segmentation of overlapping nuclei from microscopic images. In the first phase we used U-net based deep learning module with ASPP block in the bottleneck for initial coarse segmentation. In the second phase, we used a novel fuzzy waterflow algorithm for instance level segmentation of the overlapping nuclei.
 
 ## **How to use the code:**
-To run the deep module, you need:1) tensorflow 2.0.0 2) Keras 2.3.1
+To run the deep module, you need:1) tensorflow 2.0.0 2) Keras 2.3.1. 
 To run the fuzzy waterflow module you need to install QT 6.2.1. The code is written in C++.
