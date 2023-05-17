@@ -7,8 +7,8 @@ fuzzy water flows for fine-grained nuclei segmentation in digital pathology." in
 The work is focused on segmentation of overlapping nuclei from microscopic images. In the first phase we used U-net based deep learning module with ASPP block in the bottleneck for initial coarse segmentation. In the second phase, we used a novel fuzzy waterflow algorithm for instance level segmentation of the overlapping nuclei.
 
 ## **How to use the code:**
-1) For the deep module, we have adopted the code at: [https://github.com/nauyan/Segmentation](https://github.com/nauyan/Segmentation) with hyper parametes tunning. The installation gudie can also be found at the given site.<br \>
-To run the fuzzy waterflow module you need to install [QT](https://www.qt.io/download). The code is written in C++.
+1) For the deep module, we have adopted the code at: [https://github.com/nauyan/Segmentation](https://github.com/nauyan/Segmentation) with hyper parametes tunning. The installation gudie can also be found at the given site.\
+2) To run the fuzzy waterflow module you need to install [QT](https://www.qt.io/download). The code is written in C++.
 
 ## **Dataset:**
 We used four public datasets: [NuCLS](https://sites.google.com/view/nucls/single-rater?authuser=0), [MoNuSeg](https://monuseg.grand-challenge.org/Data/), [TNBC](https://zenodo.org/record/1175282#.YMisCTZKgow), and [S-BSST265](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BSST265).
